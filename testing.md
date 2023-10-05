@@ -1,6 +1,12 @@
 ## Trying to get markdown to work!
 
-![image]./mountain.jpg
+Local image
+![image](./mountain.jpg)
+---
+
+Cloud image
+![image2](https://traveldigg.com/wp-content/uploads/2016/07/Rocky-Mountains-Pictures.jpg)
+---
 
 ```
 print("hello world")
