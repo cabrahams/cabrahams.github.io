@@ -9,7 +9,7 @@ Cloud image
 print("hello world")
 ```
 
-## Code 
+## Text
 **New edits**\
 *my name is chloe abrahams*
 
