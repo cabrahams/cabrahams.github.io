@@ -28,6 +28,9 @@ I want to make this\
 ### Header sizing?
 - [Pinterest](https://www.pinterest.com/)
 - [Youtube](https://www.youtube.com/)
+- My RSO's discord: [GeoDat](https://discord.com/channels/926980001251880980/926980001251880987)
+- [NYT](https://www.nytimes.com/)
+- My canvas: [Canvas](https://canvas.uw.edu/)
 
 ### References
 1. Reference 1
