@@ -8,14 +8,18 @@ Cloud image
 ```
 print("hello world")
 ```
----
+
+# Testing fonts
 I want to make this\
 ~~I want to make this~~\
 **I want to make this**\
 *I want to make this*\
 ![image2](https://i.pinimg.com/564x/58/c2/d9/58c2d9a494223be392012588ad4783af.jpg)
----
 
+# Test 1
+## Test 2
+### Test 3
+#### Test 4?
 
 ## Text
 **New edits**\
