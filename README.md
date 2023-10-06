@@ -1,9 +1,3 @@
-## Testing
-# seeing what this does differently
+## README file
 
-
-I need to create a file called wiki.md
-
-```
-testing code
-```
+Initialized w/ the repository
