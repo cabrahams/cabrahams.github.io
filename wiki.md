@@ -12,7 +12,7 @@ print("hello world")
 I want to make this\
 ~~I want to make this~~\
 **I want to make this**\
-*I want to make this*
+*I want to make this*\
 ![image2](https://i.pinimg.com/564x/58/c2/d9/58c2d9a494223be392012588ad4783af.jpg)
 ---
 
